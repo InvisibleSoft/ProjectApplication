@@ -1,0 +1,16 @@
+/.recommenders/
+/.metadata/
+/.sonarlint/
+/TestingApplication/
+/RemoteSystemsTempFiles/
+*.class
+*.classpath
+*.project
+*.MF
+*.properties
+!/gtrsEJB/*.java
+!/gtrsJPA/*.java
+!/gtrsWeb/*.java
+!*.java
+
+
